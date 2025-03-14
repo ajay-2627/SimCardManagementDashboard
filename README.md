@@ -6,8 +6,8 @@ This **Power BI Dashboard** provides a **detailed analysis of SIM card activity*
 ### 🔗 Dashboard Preview
 [Click to View the Dashboard](https://drive.google.com/file/d/10us7mNm5sLJBO0Qu2lTFUEEMPmpWGUc8/view?usp=sharing)
 
-### 🖼️ Dashboard Screenshot
-![SIM Box Dashboard](Screenshot%202025-03-13%20194943.png)
+![Screenshot 2025-03-13 194943](https://github.com/user-attachments/assets/c0dd1c28-1eba-44ad-8ce2-6a7fb9138789)
+
 
 ---
 
